@@ -6,6 +6,7 @@
     <modules>
         <module>java-copy</module>
         <module>book-multithreaded-programs</module>
+        <module>java-sdk</module>
     </modules>
 
     <groupId>com.mawen</groupId>
